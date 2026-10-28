@@ -1,0 +1,2 @@
+Model,BLEU,chrF,Training_seconds,Inference_seconds,Parameters
+LLaMA,9.193986069234974,30.529696351044795,,70.16814273499995,749275136

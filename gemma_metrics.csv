@@ -1,0 +1,2 @@
+Model,BLEU,chrF,Training_seconds,Inference_seconds,Parameters
+Gemma,13.28061483081595,36.82862643785634,,142.09123433199989,651005056
